@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!-- Written on 16-Mar-2015 15:42:49 using the XML Toolbox for Matlab -->
+<root>
+  <filename>data_0001.D</filename>
+  <number_of_channels>21</number_of_channels>
+  <number_of_samples>11745</number_of_samples>
+  <sample_frequency>250</sample_frequency>
+  <time_abs>734088.4271759259</time_abs>
+  <channel_001>Fp1</channel_001>
+  <channel_002>Fp2</channel_002>
+  <channel_003>F3</channel_003>
+  <channel_004>F4</channel_004>
+  <channel_005>C3</channel_005>
+  <channel_006>C4</channel_006>
+  <channel_007>P3</channel_007>
+  <channel_008>P4</channel_008>
+  <channel_009>O1</channel_009>
+  <channel_010>O2</channel_010>
+  <channel_011>F7</channel_011>
+  <channel_012>F8</channel_012>
+  <channel_013>T3</channel_013>
+  <channel_014>T4</channel_014>
+  <channel_015>T5</channel_015>
+  <channel_016>T6</channel_016>
+  <channel_017>Fz</channel_017>
+  <channel_018>Cz</channel_018>
+  <channel_019>Pz</channel_019>
+  <channel_020>EKG</channel_020>
+  <channel_021>STM</channel_021>
+</root>
